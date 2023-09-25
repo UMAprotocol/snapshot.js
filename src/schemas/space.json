@@ -301,7 +301,7 @@
             },
             "privacy": {
               "type": "string",
-              "enum": ["", "shutter"]
+              "enum": ["", "shutter", "oshhhnap"]
             }
           },
           "additionalProperties": false
