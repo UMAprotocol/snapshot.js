@@ -1,6 +1,6 @@
 {
   "name": "hackathon-snapshotjs",
-  "version": "1.0",
+  "version": "1.0.1",
   "repository": "UMAprotocol/snapshot.js",
   "license": "MIT",
   "main": "dist/snapshot.cjs.js",
