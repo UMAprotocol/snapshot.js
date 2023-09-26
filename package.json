@@ -1,5 +1,5 @@
 {
-  "name": "hackathon-snapshotjs",
+  "name": "@snapshot-labs/snapshot.js",
   "version": "1.0.1",
   "repository": "UMAprotocol/snapshot.js",
   "license": "MIT",
